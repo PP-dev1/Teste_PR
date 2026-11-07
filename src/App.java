@@ -7,8 +7,8 @@ public class App {
         String aluno1 = "João";
 
         List<String> alunos = new ArrayList<>();
-        alunos.add("Filipe Araujo");
-        alunos.add("Luciano Motta");
+        alunos.add("Filipe Fernandes");
+        alunos.add("Luciano Tavares");
         alunos.add("Pedro Paulo");
         alunos.add("Francisco Jonatas");
 
