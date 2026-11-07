@@ -7,11 +7,10 @@ public class App {
         String aluno1 = "João";
 
         List<String> alunos = new ArrayList<>();
-
         alunos.add("Filipe Fernandes");
         alunos.add("Luciano Tavares");
-        alunos.add("Pedro Henrique");
-        alunos.add("Francisco Neto");
+        alunos.add("Pedro Paulo");
+        alunos.add("Francisco Jonatas");
 
         System.out.println(alunos);
     }
