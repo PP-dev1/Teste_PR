@@ -1,6 +1,17 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class App {
     static void main(String[] args) {
-        System.out.println("Principal com alterações na mesma linha");
-        System.out.println("Alteração da Branch nova");
+
+        String aluno1 = "João";
+
+        List<String> alunos = new ArrayList<>();
+        alunos.add("João");
+        alunos.add("Mario");
+        alunos.add("Pedro");
+        alunos.add("Rafael");
+
+        System.out.println(alunos);
     }
 }
